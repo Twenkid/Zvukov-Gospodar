@@ -9,7 +9,7 @@ Freeware
 
 http://www.oocities.org/todprog/bgr/sval.htm
 
-
+```
     _______    ___    ___      ____    _____      ___     _____
    /___ ___\  /___\  | _  \   //  \\   ||  \\    /___\   / ____\
       | |    ||   || ||  \ \  |\__//   ||___/   ||   ||  ||   __
@@ -34,5 +34,6 @@ http://www.geocities.com/eimworld
 Enjoy ! 
 
 	Plovdiv,BULGARIA  March 2001
-
+```
  
+* Има повреда в зип-архива и изпълниямият файл не се отваря - да потърся копие!
