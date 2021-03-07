@@ -8,3 +8,31 @@
 Freeware
 
 http://www.oocities.org/todprog/bgr/sval.htm
+
+
+    _______    ___    ___      ____    _____      ___     _____
+   /___ ___\  /___\  | _  \   //  \\   ||  \\    /___\   / ____\
+      | |    ||   || ||  \ \  |\__//   ||___/   ||   ||  ||   __
+      | |    ||   || ||   | | | __/    ||  \\   ||   ||  ||   \ |
+      | |    ||___|| ||__/ /  | |      ||   ||  ||___||  |\___/ | 
+      |_|     \___/  |____/   |_|      ||   ||   \___/    \____/   
+                                                      
+ 
+- SOUND MASTER version 0.1DOS ENGLISH
+  (Programme for sound effects)
+  
+author: Todor Iliev Arnaudov (TodProg)  
+
+http://www.geocities.com/todprog
+
+Read my e-zine "EIM WORLD" (EIM means "computer") if you know Bulgarian.
+http://www.geocities.com/eimworld
+
+
+*** Има грешка в зип-архива, ако мога да открия друго копие!
+
+Enjoy ! 
+
+	Plovdiv,BULGARIA  March 2001
+
+ 
